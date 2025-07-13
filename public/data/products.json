@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15",
+    "slug": "iphone-15",
+    "price": 1200000,
+    "storage": "256GB",
+    "image": "/images/iphone15.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S23 Ultra",
+    "slug": "samsung-s23-ultra",
+    "price": 950000,
+    "storage": "512GB",
+    "image": "/images/Samsung Galaxy S23 Ultra.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Infinix Zero 30",
+    "slug": "infinix-zero-30",
+    "price": 350000,
+    "storage": "256GB",
+    "image": "/images/Infinix Zero 30.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Tecno Phantom X2",
+    "slug": "tecno-phantom-x2",
+    "price": 400000,
+    "storage": "128GB",
+    "image": "/images/Tecno Phantom X2.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Google Pixel 8",
+    "slug": "pixel-8",
+    "price": 800000,
+    "storage": "128GB",
+    "image": "/images/Google Pixel 8.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "slug": "redmi-note-13-pro",
+    "price": 270000,
+    "storage": "256GB",
+    "image": "/images/Xiaomi Redmi Note 13 Pro.webp"
+  },
+  {
+    "id": "7",
+    "name": "iPhone 14 pro",
+    "slug": "iphone-14-pro",
+    "price": 850000,
+    "storage": "128GB",
+    "image": "/images/iphone14pro.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Samsung Galaxy A54",
+    "slug": "samsung-a54",
+    "price": 420000,
+    "storage": "128GB",
+    "image": "/images/Samsung Galaxy A54.jpg"
+  }
+]

@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Add dark mode background and text colors for body */
+body {
+  @apply bg-white text-gray-900;
+}
+
+.dark body {
+  @apply bg-gray-900 text-white;
+}

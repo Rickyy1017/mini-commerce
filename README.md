@@ -1,0 +1,44 @@
+# Mini-Commerce
+
+## 🚀 Project Overview
+Mini-Commerce is a modern e-commerce frontend built using Next.js 14 App Router. It allows users to browse, filter, and purchase smartphones. Core features include cart management, responsive design, product search, and dark mode support.
+
+## 🎨 Design Approach
+- Mobile-first, fully responsive UI
+- Tailwind CSS used for styling
+- Modern and clean layout with animations (AOS)
+- Dark mode toggle for accessibility
+
+## 🛠 Tools & Techniques
+- *Framework:* Next.js 14 (App Router)
+- *State Management:* Zustand
+- *Data Fetching:* React Query
+- *Styling:* Tailwind CSS
+- *Animation:* AOS
+- *Testing:* React Testing Library (optional)
+- *Toast Notifications:* react-hot-toast
+
+## 🌐 SEO Strategy
+- Meta tags (title, description, favicon)
+- Open Graph (OG) image for social sharing
+- Optimized images with next/image
+
+## 🔒 Error Handling
+- Graceful loading/error states with React Query
+- 404 route fallback
+- Fallback UI for empty carts and fetch failures
+
+## ⚙ Developer Experience
+- Strict TypeScript mode ("strict": true)
+- ESLint and Prettier configured
+- Git commit history is clean and descriptive
+
+---
+
+## 📝 Setup Instructions
+
+```bash
+git clone https://github.com/YOUR_USERNAME/mini-commerce.git
+cd mini-commerce
+npm install
+npm run dev"# mini-commerce" 
