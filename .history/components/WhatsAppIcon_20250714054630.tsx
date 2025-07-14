@@ -6,6 +6,7 @@ import { motion } from 'framer-motion';
 export default function WhatsAppIcon() {
   const whatsappLink = 'https://wa.link/5er8n1';
 
+
   return (
     <motion.a
       href={whatsappLink}
@@ -17,4 +18,3 @@ export default function WhatsAppIcon() {
       <FaWhatsapp size={24} />
     </motion.a>
   );
-}
