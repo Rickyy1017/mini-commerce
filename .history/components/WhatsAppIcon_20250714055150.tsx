@@ -1,12 +1,13 @@
 'use client';
 
 import { FaWhatsapp } from 'react-icons/fa';
+import { motion } from 'framer-motion';
 
 export default function WhatsAppIcon() {
   const whatsappLink = 'https://wa.link/5er8n1';
 
   return (
-    <a
+    <
       href={whatsappLink}
       target="_blank"
       rel="noopener noreferrer"
@@ -14,6 +15,6 @@ export default function WhatsAppIcon() {
       aria-label="Chat on WhatsApp"
     >
       <FaWhatsapp size={24} />
-    </a>
+    </
   );
 }
