@@ -60,29 +60,3 @@ export default function CheckoutPage() {
             </div>
           ))}
 
-          <div className="text-right text-xl font-bold mt-6">
-            Total:{" "}
-            <span className="text-indigo-600 dark:text-indigo-400">
-              ₦{total.toLocaleString()}
-            </span>
-          </div>
-
-          <button
-            onClick={handlePlaceOrder}
-            className="mt-6 w-full bg-indigo-600 text-white px-6 py-4 rounded-lg font-semibold hover:bg-indigo-700 transition cursor-pointer"
-          >
-            Place Order
-          </button>
-          <div className="flex justify-between mt-4 gap-4">
-            <button
-              onClick={() => router.back()}
-              className="flex-1 bg-red-600 text-white px-6 py-4 rounded-lg font-semibold hover:bg-gray-600 transition cursor-pointer"
-            >
-              Go Back
-            </button>
-          </div>
-        </div>
-      )}
-    </div>
-  );
-}

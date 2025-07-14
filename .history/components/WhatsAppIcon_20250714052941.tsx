@@ -10,7 +10,7 @@ const shakeVariants = {
       duration: 0.4,
       repeat: Infinity,
       repeatDelay: 1,
-      ease: "easeInOut",
+      ease: ["easeInOut"],
     },
   },
 };
